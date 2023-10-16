@@ -3,6 +3,8 @@
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
 
+- MINOR edit here
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
